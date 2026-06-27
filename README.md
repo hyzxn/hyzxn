@@ -17,7 +17,7 @@
   <a href="https://github.com/hyzxn"><img src="https://github-readme-stats-eight-alpha-95.vercel.app/api/top-langs/?username=hyzxn&layout=donut&hide_title=true&hide_border=true&bg_color=0c0c0c&text_color=ffffff&hide=batchfile,javascript,html,css" alt="Top Langs" /></a>
 </p>
 
-<h2 align="center">Stats</h2>
+<h2 align="center">Rank</h2>
 <p align="center">
-<a href="https://github.com/hyzxn"><img src="![Anurag's GitHub stats|500](https://github-readme-stats-eight-alpha-95.vercel.app/api/?username=hyzxn&&theme=dracula&hide_title=true&hide_border=true&bg_color=0c0c0c&text_color=ffffff) /></a>
+  <a href="https://github.com/hyzxn"><img src="https://github-readme-stats-eight-alpha-95.vercel.app/api/?username=hyzxn&theme=dracula&hide_title=true&hide_border=true&bg_color=0c0c0c&text_color=ffffff" alt="Anurag's GitHub stats" width="500" /></a>
 </p>
