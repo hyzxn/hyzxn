@@ -17,7 +17,16 @@
   <a href="https://github.com/hyzxn"><img src="https://github-readme-stats-eight-alpha-95.vercel.app/api/top-langs/?username=hyzxn&layout=donut&hide_title=true&hide_border=true&bg_color=0c0c0c&text_color=ffffff&hide=batchfile,javascript,html,css" alt="Top Langs" /></a>
 </p>
 
+<br>
+
 <h2 align="center">Rank</h2>
 <p align="center">
   <a href="https://github.com/hyzxn"><img src="https://github-readme-stats-eight-alpha-95.vercel.app/api/?username=hyzxn&theme=dracula&hide_title=true&hide_border=true&bg_color=0c0c0c&text_color=ffffff" alt="Anurag's GitHub stats" width="500" /></a>
+</p>
+
+<br>
+
+<h2 align="center">Contributions Trends</h2>
+<p align="center">
+  <a href="https://github.com/hyzxn"><img src="https://github-readme-activity-graph.vercel.app/graph?username=hyzxn&bg_color=0c0c0c&color=ffffff&line=e7eaee&point=ffffff&area_color=ffffff&area=true&hide_border=true&hide_title=true&title_color=ffffff&border_color=0c0c0c&grid=true&height=350&days=30" /></a>
 </p>
